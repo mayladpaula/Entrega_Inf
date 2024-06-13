@@ -5,8 +5,6 @@ Este foi o objetivo por apresentar tudo o que foi realizado durante o semestre.
 # Índice
 * [Apresentação](#apresentação)
 * [Registros das sprints](#registros)
-* [Autor](#autor)
-
 
 # Registros 
 
