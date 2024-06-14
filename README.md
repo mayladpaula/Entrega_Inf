@@ -58,3 +58,15 @@ Criação de Aplicativo
 | Team Member  | Bianca Trevisan            | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaTrevisan)              |    
 | Team Member  | Mayla de Paula             | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayladpaula)          |
 
+## Trabalho Power App
+
+Criação de automação 
+
+![print](https://github.com/mayladpaula/Entrega_Inf/assets/163483758/6f2052e5-f426-4ab7-8675-e6f93cad76fd)
+![email](https://github.com/mayladpaula/Entrega_Inf/assets/163483758/1cb20587-d00a-469b-8a27-d80562689b6e)
+
+|    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Team Member  | Bianca Trevisan            | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaTrevisan)              |    
+| Team Member  | Mayla de Paula             | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/mayladpaula)          |
+
